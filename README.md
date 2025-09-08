@@ -2,7 +2,7 @@
 
 ## About Me
 
-Passionate front-end developer focusing on enhancing cloud development skills through AWS DevOps. Skilled in building responsive and user-friendly websites using Bootstrap and Tailwind CSS. Currently refining expertise in React and Next.js to create seamless and scalable web applications. Aspiring to apply my skills as a Front-End Web Developer, Web Designer, or UX Developer, bringing a blend of technical proficiency and design sensibility to create engaging digital experiences.
+Front-End Developer with strong skills in React.js, UI component development, and REST API integration. Recently expanded into full-stack development with Django, PostgreSQL, and Render deployment. Experienced in building responsive, accessible, and user-friendly web applications, with expertise in design-to-code workflows, email automation, and authentication. Skilled at bridging design and development to deliver modern, performant solutions.
 
 ## Skills
 
