@@ -9,13 +9,13 @@ Front-End Developer with strong skills in React.js, UI component development, an
 - **Front-End Development**: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - **Full-Stack Development**: Django, PostgreSQL, REST API, Cloudinary, Render
 - **Authentication**: Django Allauth, Role-Based Access Control
-- **UI Component Development**: Design Systems, Figma
+- **UI Component Development**: Storybook (exposure), Design Systems, Figma
 - **Automation**: Email automation (Gmail SMTP), testing, and CI/CD workflows
 CMS: WordPress (custom themes/plugins), MAMP, MY
 - **SEO & Accessibility**: WCAG 2.1 AA compliance, Google Analytics
 - **Design Tools**: Figma, Notion, & Adobe Creative Suite (XD, Photoshop, Illustrator & After Effects)
 - **Version Control**: Git, GitHub
-- **Learning Focus**: TypeScript, AWS Services, StoryBook
+- **Learning Focus**: TypeScript, AWS Services
 
 - **Languages**: JavaScript, HTML, CSS, Typescript
 - **Frameworks**: React, Nextjs, Node.js, Express.js, Tailwind, Bootstrap
