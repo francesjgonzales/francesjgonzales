@@ -23,7 +23,7 @@ CMS: WordPress (custom themes/plugins), MAMP, MY
 - **Tools**: Git, VS Code, AWS S3, Route 53, CloudFront
 
 ## Projects
-- **[Design Portfolio in WordPress](https://darkslategrey-cheetah-939171.hostingersite.com/)**: A WordPress site showcasing a Designer's portfolio. Focused on content organization highlighting the designer's valuable skills. #volunteer
+- **[Design Portfolio in WordPress](https://malexanaomi.site)**: A WordPress site showcasing a Designer's portfolio. Focused on content organization highlighting the designer's valuable skills. #volunteer
 - **[New Sole Django Web Application](https://github.com/francesjgonzales/newsole2)**: Rebuilt a bootcamp project from 2020, New Sole is an ecommerce web application that features user authentication, product management, wishlist and cart functionality, search, and email automation. The project is deployed using Render and styled with Bootstrap. #bootcamp
 - **[Deploy React App on AWS S3](https://gfrancesjane.com/2025/02/05/deploy-react-app-on-aws-s3/)**: Worked on deploying a single-page website by creating a bucket in Amazon’s S3. #personal
 - **[100 Years of Nursing](https://www.100yearsofnursing.ca/)**: Redeveloped the website by resolving video functionality issues, enhancing responsiveness across various devices, and improving user experience through redesigning each page and adding navigation endpoints. Technologies: HTML, CSS, Bootstrap, Node.js, Express.js. #realwork
