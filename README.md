@@ -2,11 +2,11 @@
 
 ## About Me
 
-Front-End Developer with strong skills in React.js, UI component development, and REST API integration. Recently expanded into full-stack development with Django, PostgreSQL, and Render deployment. Experienced in building responsive, accessible, and user-friendly web applications, with expertise in design-to-code workflows, email automation, and authentication. Skilled at bridging design and development to deliver modern, performant solutions.
+Front-End Developer with strong skills in responsive web design, UI component development, and REST API integration. Recently expanded into full-stack development with Django, PostgreSQL, and Render deployment. Experienced in building responsive, accessible, and user-friendly web applications, with expertise in design-to-code workflows, email automation, and authentication. Skilled at bridging design and development to deliver modern, performant solutions.
 
 ## Skills
 
-- **Front-End Development**: React.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+- **Front-End Development**: React.js (exposure), HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - **Full-Stack Development**: Django, PostgreSQL, REST API, Cloudinary, Render
 - **Authentication**: Django Allauth, Role-Based Access Control
 - **UI Component Development**: Storybook (exposure), Design Systems, Figma
